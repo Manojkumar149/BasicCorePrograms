@@ -34,6 +34,8 @@ namespace BasicCorePrograms
                         factors.Factor();
                         break;
                     case 6:
+                        QuotientAndRemainder quotientAndRemainder = new QuotientAndRemainder();
+                        quotientAndRemainder.QuotientRemainder();
                         break;
                     case 7:
                         SwapTwoNumbers swapTwoNumbers = new SwapTwoNumbers();
