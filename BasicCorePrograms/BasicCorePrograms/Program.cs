@@ -22,6 +22,8 @@ namespace BasicCorePrograms
                         leapYear.Leap();
                         break;
                     case 3:
+                        PowerOfTwo powerOfTwo = new PowerOfTwo();
+                        powerOfTwo.PowerofTwo(5);
                         break;
                     case 4:
                         break;
