@@ -44,6 +44,8 @@ namespace BasicCorePrograms
                         evenorOdd.EvenOrOdd();
                         break;
                     case 9:
+                        VowelOrConsonant vowelOrConsonant = new VowelOrConsonant();
+                        vowelOrConsonant.VowelConsonant();
                         break;
                     case 10:
                         LargestNumber largestNumber = new LargestNumber();
