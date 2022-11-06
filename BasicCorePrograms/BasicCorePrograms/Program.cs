@@ -14,6 +14,8 @@ namespace BasicCorePrograms
                 switch (check)
                 {
                     case 1:
+                        FlipCoin flipCoin = new FlipCoin();
+                        flipCoin.play(1);
                         break;
                     case 2:
                         break;
