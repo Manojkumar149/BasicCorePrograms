@@ -30,6 +30,8 @@ namespace BasicCorePrograms
                         swapTwoNumbers.Swap2Numbers();
                         break;
                     case 8:
+                        EvenorOdd evenorOdd = new EvenorOdd();
+                        evenorOdd.EvenOrOdd();
                         break;
                     case 9:
                         break;
