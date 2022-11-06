@@ -18,6 +18,8 @@ namespace BasicCorePrograms
                         flipCoin.play(1);
                         break;
                     case 2:
+                        LeapYear leapYear = new LeapYear();
+                        leapYear.Leap();
                         break;
                     case 3:
                         break;
