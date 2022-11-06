@@ -26,6 +26,8 @@ namespace BasicCorePrograms
                         powerOfTwo.PowerofTwo(5);
                         break;
                     case 4:
+                        HarmonicNumber harmonicNumber = new HarmonicNumber();
+                        harmonicNumber.Calculate(5);
                         break;
                     case 5:
                         break;
