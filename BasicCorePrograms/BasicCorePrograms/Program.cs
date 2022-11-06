@@ -34,6 +34,8 @@ namespace BasicCorePrograms
                     case 9:
                         break;
                     case 10:
+                        LargestNumber largestNumber = new LargestNumber();
+                        largestNumber.ThirdLargestNumber();
                         break;
                     default:
                         break;
