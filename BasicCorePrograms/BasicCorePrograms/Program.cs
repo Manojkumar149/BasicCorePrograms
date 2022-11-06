@@ -30,6 +30,8 @@ namespace BasicCorePrograms
                         harmonicNumber.Calculate(5);
                         break;
                     case 5:
+                        Factors factors = new Factors();
+                        factors.Factor();
                         break;
                     case 6:
                         break;
